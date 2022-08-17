@@ -54,7 +54,6 @@ export const CustomDialog = styled(Dialog)`
 `;
 export const TableHeader = styled.div`
   position: sticky;
-  height: 70px;
   background-color: #fafafa;
   top: 0;
   width: 100%;
